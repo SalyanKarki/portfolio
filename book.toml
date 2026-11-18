@@ -1,0 +1,8 @@
+[book]
+title = "CSC 324 Portfolio"
+authors = ["Your Name"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/grinnell-csc324-fall-2026/fakeletterboxd"
